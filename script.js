@@ -1,6 +1,6 @@
 'use strict';
 // Replace only these asset paths to use another supplied recording.
-const CONFIG={audio:'assets/musica.mp3',transition:1.65,parallax:14};
+const CONFIG={audio:'musica.mp3',transition:1.65,parallax:14};
 // User-supplied lyrics aligned to Korean caption boundaries from https://youtu.be/2Bo-ULStqLo
 // Seconds are relative to the supplied music-video MP3. Combined caption phrases stay together; instrumental gaps stay empty.
 const LYRICS=[
